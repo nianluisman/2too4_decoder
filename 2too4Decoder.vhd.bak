@@ -1,0 +1,4 @@
+LIBBARY IEEE; --includers Libraies for standard logic data types
+use IEEE.STD_LOGIC_1164.all; 
+
+  

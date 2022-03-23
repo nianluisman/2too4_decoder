@@ -1,0 +1,15 @@
+|too4Decoder
+A[0] => D.IN0
+A[0] => D.IN0
+A[0] => D.IN0
+A[0] => D.IN0
+A[1] => D.IN1
+A[1] => D.IN1
+A[1] => D.IN1
+A[1] => D.IN1
+D[0] <= D.DB_MAX_OUTPUT_PORT_TYPE
+D[1] <= D.DB_MAX_OUTPUT_PORT_TYPE
+D[2] <= D.DB_MAX_OUTPUT_PORT_TYPE
+D[3] <= D.DB_MAX_OUTPUT_PORT_TYPE
+
+
